@@ -34,6 +34,7 @@ body{
 .parent3 {
     margin-top: 10px;
     display: flex;
+    flex-wrap: wrap;
     gap: 12px;
 }
 .parent3 .itm{
@@ -49,6 +50,7 @@ body{
 
 .parent4{
     display: flex;
+    flex-wrap: wrap;
     
 }
 img{
@@ -65,10 +67,12 @@ img{
 }
 .parent4 .mn {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .parent4 .mm{
     display: flex;
+    flex-wrap: wrap;
     
 }
 .parent4 .mm .mn .icon{

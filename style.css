@@ -50,7 +50,7 @@ body{
 
 .parent4{
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     
 }
 img{
@@ -67,12 +67,12 @@ img{
 }
 .parent4 .mn {
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
 }
 
 .parent4 .mm{
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     
 }
 .parent4 .mm .mn .icon{
